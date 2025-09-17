@@ -1,20 +1,25 @@
-<h2 align="left">Hi 👋! My name is Aleksey and I'm a Frontend dev, from Russia</h2>
+<div align="center">
+<img align="center" height="150" src="https://i.yapx.ru/anIc8.jpg"  />
+</div>
+
+<h2 align="center">Hi 👋! My name is Aleksey and I'm a Frontend dev, from Russia</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevoiddev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=thevoiddev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+ 
+  <img src="https://streak-stats.demolab.com?user=thevoiddev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="135" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoiddev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=thevoiddev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="135" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.yapx.ru/anIc8.jpg"  />
+
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
@@ -44,7 +49,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/343674471082754049" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -59,7 +64,9 @@
 ###
 
 <br clear="both">
-
+<div align="center"> 
 <img src="https://raw.githubusercontent.com/thevoiddev/thevoiddev/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 ###
