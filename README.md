@@ -1,5 +1,8 @@
 <div align="center">
-<img align="center" height="150" src="https://i.yapx.ru/anIc8.jpg"  />
+<kbd>
+<img align="center" height="150" src="https://i.yapx.ru/anIc8.jpg"   />
+
+</kbd>
 </div>
 
 <h2 align="center">Hi 👋! My name is Aleksey and I'm a Frontend dev, from Russia</h2>
