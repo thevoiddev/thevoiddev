@@ -1,75 +1,185 @@
-<div align="center">
-<kbd>
-<img align="center" height="150" src="https://i.yapx.ru/anIc8.jpg"   />
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         T H E   V O I D                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-</kbd>
+<div align="center">
+  <img
+    width="100%"
+    alt="thevoiddev — banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:3a0ca3,100:7209b7&height=220&section=header&text=thevoiddev&fontColor=f5d0fe&fontSize=66&fontAlignY=36&desc=frontend%20developer%20%E2%80%A2%20entering%20the%20void&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn"
+  />
 </div>
 
-<h2 align="center">Hi 👋! My name is Aleksey and I'm a Frontend dev, from Russia</h2>
-
-###
-
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=thevoiddev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoiddev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
- <img src="https://github-readme-stats.vercel.app/api?username=thevoiddev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="135" alt="stats graph"  />
+  <img
+    alt="Animated typing taglines"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=Frontend+Developer+%E2%9A%A1+based+in+Russia;React+%2B+TypeScript+%2B+Node.js;Building+fast%2C+accessible+interfaces;Pixel-perfect+UI+from+the+dark+side"
+  />
 </div>
 
-###
-
-
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img
+    alt="Profile views counter"
+    src="https://komarev.com/ghpvc/?username=thevoiddev&label=profile%20views&color=3a0ca3&style=for-the-badge&labelColor=0b0014"
+  />
 </div>
 
-###
+---
+
+<!-- ──────────────────────────  WHOAMI  ────────────────────────── -->
 
 <div align="center">
-  <a href="https://discord.com/users/343674471082754049" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+
+```ts
+const aleksey: Developer = {
+  alias:        "thevoiddev",
+  name:         "Aleksey (Alex)",
+  role:         "Frontend Developer",
+  location:     "Russia 🇷🇺",
+  stack:        ["TypeScript", "React", "Node.js", "GraphQL"],
+  focus:        "fast, accessible, pixel-perfect UI",
+  availability: "open to interesting frontend work",
+} as const;
+
+// $ whoami
+// > a frontend dev who turns the void into interfaces.
+```
+
+</div>
+
+<div align="center">
+
+I'm Aleksey — a frontend developer from Russia who lives in the React &amp; TypeScript ecosystem.
+I take interfaces from design to deploy: clean, fast, accessible, and pixel-perfect.
+
+</div>
+
+---
+
+<!-- ──────────────────────────  TECH STACK  ────────────────────────── -->
+
+## <samp>// tech stack</samp>
+
+<div align="center">
+
+#### Languages
+<p>
+  <img height="42" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</p>
+
+#### Frameworks &amp; Runtime
+<p>
+  <img height="42" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="GraphQL" title="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+</p>
+
+#### Databases
+<p>
+  <img height="42" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</p>
+
+#### Tools
+<p>
+  <img height="42" alt="WebStorm" title="WebStorm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+
+</div>
+
+---
+
+<!-- ──────────────────────────  STATS  ────────────────────────── -->
+
+## <samp>// stats</samp>
+
+<div align="center">
+
+  <img
+    height="165"
+    alt="thevoiddev's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=thevoiddev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0b0014&title_color=a78bfa&icon_color=7209b7&text_color=c9d1d9&locale=en"
+  />
+  <img
+    height="165"
+    alt="thevoiddev's GitHub streak"
+    src="https://streak-stats.demolab.com?user=thevoiddev&theme=tokyonight&hide_border=true&border_radius=8&background=0b0014&ring=A78BFA&fire=7209B7&currStreakLabel=A78BFA&locale=en"
+  />
+
+  <br />
+
+  <img
+    height="165"
+    alt="thevoiddev's most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoiddev&layout=compact&langs_count=8&card_width=480&hide_border=true&theme=tokyonight&bg_color=0b0014&title_color=a78bfa&text_color=c9d1d9&locale=en"
+  />
+
+</div>
+
+---
+
+<!-- ──────────────────────────  SNAKE  ────────────────────────── -->
+
+<div align="center">
+  <img
+    width="100%"
+    alt="thevoiddev's contribution graph consumed by a snake game"
+    src="https://raw.githubusercontent.com/thevoiddev/thevoiddev/output/snake.svg"
+  />
+</div>
+
+---
+
+<!-- ──────────────────────────  CONTACT  ────────────────────────── -->
+
+## <samp>// connect</samp>
+
+<div align="center">
+
+  <a href="https://discord.com/users/343674471082754049">
+    <img
+      alt="Discord — thevoiddev"
+      src="https://img.shields.io/badge/Discord-0b0014?style=for-the-badge&logo=discord&logoColor=5865F2"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/chekunovdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/chekunovdev/">
+    <img
+      alt="LinkedIn — Aleksey Chekunov"
+      src="https://img.shields.io/badge/LinkedIn-0b0014?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    />
   </a>
-  <a href="https://t.me/chekunovLimited" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://t.me/chekunovLimited">
+    <img
+      alt="Telegram — @chekunovLimited"
+      src="https://img.shields.io/badge/Telegram-0b0014?style=for-the-badge&logo=telegram&logoColor=26A5E4"
+    />
   </a>
+
 </div>
 
-###
-
-<br clear="both">
-<div align="center"> 
-<img src="https://raw.githubusercontent.com/thevoiddev/thevoiddev/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <sub>⌁ designed in the void ⌁ &nbsp;•&nbsp; <code>thevoiddev</code></sub>
 </div>
 
-###
+<div align="center">
+  <img
+    width="100%"
+    alt="Decorative neon footer wave"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,50:3a0ca3,100:0b0014&height=120&section=footer&animation=fadeIn"
+  />
+</div>
