@@ -17,14 +17,7 @@
   />
 </div>
 
-<div align="center">
-  <img
-    alt="Profile views counter"
-    src="https://komarev.com/ghpvc/?username=thevoiddev&label=profile%20views&color=3a0ca3&style=for-the-badge&labelColor=0b0014"
-  />
-</div>
-
----
+###
 
 <!-- ──────────────────────────  WHOAMI  ────────────────────────── -->
 
@@ -32,13 +25,13 @@
 
 ```ts
 const aleksey: Developer = {
-  alias:        "thevoiddev",
-  name:         "Aleksey (Alex)",
-  role:         "Frontend Developer",
-  location:     "Russia 🇷🇺",
-  stack:        ["TypeScript", "React", "Node.js", "GraphQL"],
-  focus:        "fast, accessible, pixel-perfect UI",
-  availability: "open to interesting frontend work",
+  alias:    "thevoiddev",
+  name:     "Aleksey (Alex)",
+  role:     "Frontend Developer",
+  location: "Russia 🇷🇺",
+  stack:    ["React", "TypeScript", "Node.js", "GraphQL"],
+  focus:    "fast, accessible, pixel-perfect UI",
+  status:   "online — open to interesting frontends",
 } as const;
 
 // $ whoami
@@ -47,14 +40,7 @@ const aleksey: Developer = {
 
 </div>
 
-<div align="center">
-
-I'm Aleksey — a frontend developer from Russia who lives in the React &amp; TypeScript ecosystem.
-I take interfaces from design to deploy: clean, fast, accessible, and pixel-perfect.
-
-</div>
-
----
+###
 
 <!-- ──────────────────────────  TECH STACK  ────────────────────────── -->
 
@@ -64,13 +50,13 @@ I take interfaces from design to deploy: clean, fast, accessible, and pixel-perf
 
 #### Languages
 <p>
-  <img height="42" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;
-  <img height="42" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;
   <img height="42" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
   <img height="42" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
 
 #### Frameworks &amp; Runtime
@@ -84,9 +70,9 @@ I take interfaces from design to deploy: clean, fast, accessible, and pixel-perf
 
 #### Databases
 <p>
-  <img height="42" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  &nbsp;&nbsp;
   <img height="42" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  &nbsp;&nbsp;
+  <img height="42" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   &nbsp;&nbsp;
   <img height="42" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </p>
@@ -102,7 +88,7 @@ I take interfaces from design to deploy: clean, fast, accessible, and pixel-perf
 
 </div>
 
----
+###
 
 <!-- ──────────────────────────  STATS  ────────────────────────── -->
 
@@ -113,12 +99,12 @@ I take interfaces from design to deploy: clean, fast, accessible, and pixel-perf
   <img
     height="165"
     alt="thevoiddev's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=thevoiddev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0b0014&title_color=a78bfa&icon_color=7209b7&text_color=c9d1d9&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=thevoiddev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=a78bfa&icon_color=7209b7&hide_rank=false&locale=en"
   />
   <img
     height="165"
     alt="thevoiddev's GitHub streak"
-    src="https://streak-stats.demolab.com?user=thevoiddev&theme=tokyonight&hide_border=true&border_radius=8&background=0b0014&ring=A78BFA&fire=7209B7&currStreakLabel=A78BFA&locale=en"
+    src="https://streak-stats.demolab.com?user=thevoiddev&theme=tokyonight&hide_border=true&border_radius=8&locale=en&ring=A78BFA&fire=7209B7&currStreakLabel=A78BFA"
   />
 
   <br />
@@ -126,24 +112,23 @@ I take interfaces from design to deploy: clean, fast, accessible, and pixel-perf
   <img
     height="165"
     alt="thevoiddev's most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoiddev&layout=compact&langs_count=8&card_width=480&hide_border=true&theme=tokyonight&bg_color=0b0014&title_color=a78bfa&text_color=c9d1d9&locale=en"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoiddev&layout=compact&langs_count=8&card_width=480&hide_border=true&theme=tokyonight&title_color=a78bfa&locale=en"
   />
 
 </div>
 
----
+###
 
 <!-- ──────────────────────────  SNAKE  ────────────────────────── -->
 
 <div align="center">
   <img
-    width="100%"
-    alt="thevoiddev's contribution graph consumed by a snake game"
+    alt="thevoiddev's contribution graph as a snake game"
     src="https://raw.githubusercontent.com/thevoiddev/thevoiddev/output/snake.svg"
   />
 </div>
 
----
+###
 
 <!-- ──────────────────────────  CONTACT  ────────────────────────── -->
 
@@ -151,22 +136,22 @@ I take interfaces from design to deploy: clean, fast, accessible, and pixel-perf
 
 <div align="center">
 
-  <a href="https://discord.com/users/343674471082754049">
+  <a href="https://discord.com/users/343674471082754049" target="_blank">
     <img
-      alt="Discord — thevoiddev"
-      src="https://img.shields.io/badge/Discord-0b0014?style=for-the-badge&logo=discord&logoColor=5865F2"
+      alt="Discord"
+      src="https://img.shields.io/badge/Discord-3a0ca3?style=for-the-badge&logo=discord&logoColor=f5d0fe"
     />
   </a>
-  <a href="https://www.linkedin.com/in/chekunovdev/">
+  <a href="https://www.linkedin.com/in/chekunovdev/" target="_blank">
     <img
-      alt="LinkedIn — Aleksey Chekunov"
-      src="https://img.shields.io/badge/LinkedIn-0b0014?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-7209b7?style=for-the-badge&logo=linkedin&logoColor=f5d0fe"
     />
   </a>
-  <a href="https://t.me/chekunovLimited">
+  <a href="https://t.me/chekunovLimited" target="_blank">
     <img
-      alt="Telegram — @chekunovLimited"
-      src="https://img.shields.io/badge/Telegram-0b0014?style=for-the-badge&logo=telegram&logoColor=26A5E4"
+      alt="Telegram"
+      src="https://img.shields.io/badge/Telegram-0b0014?style=for-the-badge&logo=telegram&logoColor=a78bfa"
     />
   </a>
 
@@ -179,7 +164,7 @@ I take interfaces from design to deploy: clean, fast, accessible, and pixel-perf
 <div align="center">
   <img
     width="100%"
-    alt="Decorative neon footer wave"
+    alt="footer wave"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,50:3a0ca3,100:0b0014&height=120&section=footer&animation=fadeIn"
   />
 </div>
